@@ -1,1 +1,2 @@
-infinto solutions vamshi, karthik, naresh, mamataz
+Infinto solutions vamshi, karthik, naresh
+We learnt ci /cd 
